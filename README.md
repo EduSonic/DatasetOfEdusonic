@@ -146,8 +146,8 @@ processing_pipeline/
 > **生成结果展示**
   
    本文以 《小红帽》和《九星霸体诀》前两章进行剧本的转换工作，因为笔者比较喜欢修仙类小说（doge），示例如下：
-   [点击查看《九星霸体诀》剧本文档](processing_pipeline\script_generate\剧本输出_龙傲天版.docx)
-   [点击查看《小红帽》剧本文档](processing_pipeline\script_generate\剧本输出_小红帽.docx)
+   [点击查看《九星霸体诀》剧本文档](.\processing_pipeline\script_generate\剧本输出_龙傲天版.docx)
+   [点击查看《小红帽》剧本文档](.\processing_pipeline\script_generate\剧本输出_小红帽.docx)
 
 ---
 

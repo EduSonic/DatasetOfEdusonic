@@ -73,7 +73,6 @@ processing_pipeline/
 │   ├── config.py
 │   ├── text_to_chat/         # 文本到对话转换
 │   ├── script_for_decoder/   # 解码器输入格式转换
-│   ├── mid_output/           # 中间输出（如csv结果）
 │   ├── emotion_part/         # 情感识别
 │   └── action_part/          # 动作识别
 ├── dataset_builder/          # json数据集构建模块

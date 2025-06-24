@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="fig\logo.png" alt="JAVClub" width="400">
+  <img src="fig\logo.png" alt="Logo" width="400">
 </h1>
 
 ❗ | **该项目为EduSonic的数据获取及预处理部分**
